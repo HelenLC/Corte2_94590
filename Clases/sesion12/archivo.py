@@ -12,7 +12,9 @@ def main():
             dicc[pos] = valor[j]
 
     print(dicc)
-    f.close()               
+    f.close()  
+    
+busqueda.busqueda_dicc(dicc)       
 
 if __name__=="__main__":
     main()
