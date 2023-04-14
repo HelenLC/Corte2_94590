@@ -1,6 +1,6 @@
 def main():
     rta="si"
-while 
+while:
 rta=="si" or rta == "SI"
 
 materias = ["Calculo", "Programacion", "Inglés", "Materiales", "Física"]
@@ -24,9 +24,8 @@ else:
       print("La materia no está en el horario.")
 
 rta=input("¿Desea continuar con el programa?(si/no)")
- 
-else:
 
+else:
 print("saliendo del sistema...")
 
 if __name__=="__main__":
